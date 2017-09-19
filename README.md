@@ -6,6 +6,7 @@ Codechef:-
 2) https://www.codechef.com/problems/CHRL4
 
 Codeforces:-
-http://codeforces.com/contest/598/problem/E
-http://codeforces.com/contest/600/problem/C
+
+1)http://codeforces.com/contest/598/problem/E
+2)http://codeforces.com/contest/600/problem/C
 
