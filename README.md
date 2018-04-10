@@ -1,5 +1,5 @@
 # Road-To-DP
-curated list of resources and links top learn Dynamic Programming Concepts
+curated list of resources and links to learn Dynamic Programming Concepts
 
 Codechef:-
 1) https://www.codechef.com/problems/CHRL2
@@ -11,3 +11,4 @@ Codeforces:-
 2) http://codeforces.com/contest/600/problem/C
 3) http://codeforces.com/contest/612/problem/F
 4) http://codeforces.com/contest/628/problem/D
+5) http://codeforces.com/contest/678/problem/E
