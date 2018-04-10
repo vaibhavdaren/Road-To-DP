@@ -12,3 +12,5 @@ Codeforces:-
 3) http://codeforces.com/contest/612/problem/F
 4) http://codeforces.com/contest/628/problem/D
 5) http://codeforces.com/contest/678/problem/E
+6) http://codeforces.com/contest/691/problem/F
+
