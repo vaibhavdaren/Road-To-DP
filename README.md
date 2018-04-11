@@ -14,5 +14,5 @@ Codeforces:-
 5) http://codeforces.com/contest/678/problem/E
 6) http://codeforces.com/contest/691/problem/F
 7) http://codeforces.com/contest/710/problem/E
-8) 
+8) http://codeforces.com/contest/762/problem/D
 
