@@ -16,3 +16,4 @@ Codeforces:-
 7) http://codeforces.com/contest/710/problem/E
 8) http://codeforces.com/contest/762/problem/D
 
+10) http://codeforces.com/contest/628/problem/D
